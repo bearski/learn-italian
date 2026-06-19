@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Backup of the master document (kept locally, not published)
+Learn_Italian_80_20.backup.docx
+
+# Editor / temp
+*.tmp
+*~

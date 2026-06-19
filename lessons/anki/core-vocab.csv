@@ -1,0 +1,134 @@
+#separator:Comma
+#html:false
+#columns:Front,Back,Tags
+"e / ed","and — pane e acqua",core-function
+"ma","but — voglio ma non posso",core-function
+"o","or — caffè o tè?",core-function
+"di","of / from — una tazza di caffè",core-function
+"a","to / at — vado a Roma",core-function
+"in","in — vivo in Italia",core-function
+"con","with — vengo con te",core-function
+"per","for — è per te",core-function
+"su","on / about — un libro su Roma",core-function
+"da","from / since — vengo da Milano",core-function
+"che","that / which / who — la persona che conosco",core-function
+"sì","yes — Sì, grazie!",core-function
+"si","oneself / one — si chiama Marco",core-function
+"no / non","no / not — non capisco",core-function
+"anche","also / too — anch'io!",core-function
+"più","more — voglio più caffè",core-function
+"molto","very / a lot — molto bene!",core-function
+"solo","only / just — solo un momento",core-function
+"già","already — ho già mangiato",core-function
+"ancora","still / again — ancora una volta",core-function
+"sempre","always — arrivi sempre tardi",core-function
+"mai","never — non vado mai lì",core-function
+"qui / qua","here — vieni qui!",core-function
+"lì / là","there — è là",core-function
+"come","how / like — come stai?",core-function
+"quando","when — quando arrivi?",core-function
+"dove","where — dove sei?",core-function
+"perché","why / because — perché sei triste?",core-function
+"se","if — se vuoi, vieni",core-function
+"essere","to be — sono / sei / è",core-verbs-top
+"avere","to have — ho / hai / ha",core-verbs-top
+"fare","to do / make — faccio / fai / fa",core-verbs-top
+"andare","to go — vado / vai / va",core-verbs-top
+"volere","to want — voglio / vuoi / vuole",core-verbs-top
+"potere","can / be able — posso / puoi / può",core-verbs-top
+"dovere","must / have to — devo / devi / deve",core-verbs-top
+"sapere","to know (facts) — so / sai / sa",core-verbs-top
+"dire","to say / tell — dico / dici / dice",core-verbs-top
+"vedere","to see — vedo / vedi / vede",core-verbs-top
+"venire","to come — vengo / vieni / viene",core-verbs-more
+"conoscere","to know (people) — conosco / conosci / conosce",core-verbs-more
+"dare","to give — do / dai / dà",core-verbs-more
+"stare","to stay / be — sto / stai / sta",core-verbs-more
+"prendere","to take — prendo / prendi / prende",core-verbs-more
+"mettere","to put — metto / metti / mette",core-verbs-more
+"parlare","to speak — parlo / parli / parla",core-verbs-more
+"capire","to understand — capisco / capisci / capisce (-isc-)",core-verbs-more
+"pensare","to think — penso / pensi / pensa",core-verbs-more
+"trovare","to find — trovo / trovi / trova",core-verbs-more
+"tornare","to return — torno / torni / torna",core-verbs-more
+"mangiare","to eat — mangio / mangi / mangia",core-verbs-more
+"bere","to drink — bevo / bevi / beve",core-verbs-more
+"uscire","to go out — esco / esci / esce",core-verbs-more
+"lavorare","to work — lavoro / lavori / lavora",core-verbs-more
+"chiamare","to call — chiamo / chiami / chiama",core-verbs-more
+"vivere","to live — vivo / vivi / vive",core-verbs-more
+"usare","to use — uso / usi / usa",core-verbs-more
+"l'uomo / la donna","man / woman",core-nouns
+"il bambino / la bambina","child (m / f)",core-nouns
+"la famiglia","family",core-nouns
+"l'amico / l'amica","friend (m / f)",core-nouns
+"la persona","person",core-nouns
+"la gente","people",core-nouns
+"la vita","life",core-nouns
+"il giorno","day",core-nouns
+"l'anno","year",core-nouns
+"il tempo","time / weather",core-nouns
+"il mondo","world",core-nouns
+"la casa","home / house",core-nouns
+"la città","city",core-nouns
+"il paese","town / country",core-nouns
+"la via / la strada","street / road",core-nouns
+"il posto","place / spot",core-nouns
+"l'ufficio","office",core-nouns
+"il negozio","shop",core-nouns
+"la scuola","school",core-nouns
+"il ristorante","restaurant",core-nouns
+"oggi","today",core-nouns-time
+"ieri","yesterday",core-nouns-time
+"domani","tomorrow",core-nouns-time
+"ora / adesso","now",core-nouns-time
+"la mattina","morning",core-nouns-time
+"la sera","evening",core-nouns-time
+"la notte","night",core-nouns-time
+"la settimana","week",core-nouns-time
+"il mese","month",core-nouns-time
+"la cosa","thing",core-nouns-time
+"l'acqua","water",core-nouns-time
+"il cibo / mangiare","food",core-nouns-time
+"i soldi","money",core-nouns-time
+"la macchina","car",core-nouns-time
+"il telefono","phone",core-nouns-time
+"il lavoro","work / job",core-nouns-time
+"il numero","number",core-nouns-time
+"la parola","word",core-nouns-time
+"buono","good (opp. cattivo / brutto = bad)",core-adjectives
+"grande","big / great (opp. piccolo = small)",core-adjectives
+"nuovo","new (opp. vecchio = old)",core-adjectives
+"bello","beautiful (opp. brutto = ugly)",core-adjectives
+"giusto","right / correct (opp. sbagliato = wrong)",core-adjectives
+"facile","easy (opp. difficile = hard)",core-adjectives
+"primo","first (opp. ultimo = last)",core-adjectives
+"stesso","same (opp. diverso = different)",core-adjectives
+"altro","other / another",core-adjectives
+"tutto","all / everything (opp. niente = nothing)",core-adjectives
+"qualche","some (opp. nessuno = none)",core-adjectives
+"poco","little (opp. tanto / molto = a lot)",core-adjectives
+"dieci","10",core-numbers
+"venti","20",core-numbers
+"trenta","30",core-numbers
+"quaranta","40",core-numbers
+"cinquanta","50",core-numbers
+"sessanta","60",core-numbers
+"settanta","70",core-numbers
+"ottanta","80",core-numbers
+"novanta","90",core-numbers
+"cento","100",core-numbers
+"Quanto costa?","How much does it cost?",core-numbers
+"Non capisco.","I don't understand.",core-phrases
+"Puoi ripetere?","Can you repeat?",core-phrases
+"Come si dice...?","How do you say...?",core-phrases
+"Non lo so.","I don't know.",core-phrases
+"Dove si trova...?","Where is...?",core-phrases
+"Mi piace.","I like it.",core-phrases
+"Ho bisogno di...","I need...",core-phrases
+"Mi scusi.","Excuse me.",core-phrases
+"Grazie mille.","Thank you very much.",core-phrases
+"Prego.","You're welcome.",core-phrases
+"Mi dispiace.","I'm sorry.",core-phrases
+"Va bene.","That's fine / OK.",core-phrases
+"Hai ragione.","You're right.",core-phrases

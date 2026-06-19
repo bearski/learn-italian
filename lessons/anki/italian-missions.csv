@@ -1,0 +1,84 @@
+#separator:Comma
+#html:false
+#columns:Front,Back,Tags
+"Good morning. I have an appointment for fingerprints.","Buongiorno. Ho un appuntamento per le impronte digitali.",questura-say
+"I have the appointment letter, here.","Ho la convocazione, ecco.",questura-say
+"I'm here for the residence permit.","Sono qui per il permesso di soggiorno.",questura-say
+"Here's the passport and the receipts.","Ecco il passaporto e le ricevute.",questura-say
+"Sorry, I don't speak Italian well.","Scusi, non parlo bene italiano.",questura-say
+"Can you speak more slowly, please?","Può parlare più lentamente, per favore?",questura-say
+"I didn't understand. Can you repeat?","Non ho capito. Può ripetere?",questura-say
+"Sorry, what?","Come, scusi?",questura-say
+"Can you write it here, please?","Può scriverlo qui, per favore?",questura-say
+"What does ... mean?","Cosa significa...?",questura-say
+"One moment, please.","Un momento, per favore.",questura-say
+"When can I collect the permit?","Quando posso ritirare il permesso?",questura-say
+"How do I know when it's ready?","Come faccio a sapere quando è pronto?",questura-say
+"Do I need to bring other documents?","Devo portare altri documenti?",questura-say
+"Thanks very much, have a good day.","Grazie mille, buona giornata.",questura-say
+"Documenti, prego. / Mi dia il passaporto.","Documents, please. / Give me the passport. → Hand over the folder.",questura-listen
+"Si accomodi. / Si sieda.","Come in / take a seat. → Sit.",questura-listen
+"Aspetti qui. / Un attimo.","Wait here. / One sec.",questura-listen
+"Venga. / Mi segua.","Come. / Follow me.",questura-listen
+"Sportello numero tre.","Counter number 3. → Go to that counter.",questura-listen
+"Metta il dito qui. / Sullo scanner.","Put your finger here / on the scanner.",questura-listen
+"Tutta la mano. / Solo il pollice.","Whole hand. / Just the thumb.",questura-listen
+"Prema. / Più forte. / Non si muova.","Press. / Harder. / Don't move.",questura-listen
+"L'altra mano.","The other hand.",questura-listen
+"Guardi la fotocamera. Non sorrida.","Look at the camera. Don't smile.",questura-listen
+"Firmi qui.","Sign here.",questura-listen
+"Qual è il suo indirizzo?","What's your address?",questura-listen
+"Dove abita?","Where do you live?",questura-listen
+"Il suo numero di telefono?","Your phone number?",questura-listen
+"Manca un documento. / Mancano le foto.","A document is missing. / Photos missing.",questura-listen
+"Va bene così. / Abbiamo finito.","That's fine. / We're done.",questura-listen
+"Torni il... (+ data)","Come back on... → Note the date; ask them to write it.",questura-listen
+"Le arriverà un SMS.","You'll get an SMS. → Watch your phone.",questura-listen
+"Come si chiama?","What's your name? → Mi chiamo ...",questura-personal
+"Data di nascita?","Date of birth? → Sono nato/a il ...",questura-personal
+"Dove è nato/a?","Where were you born? → Sono nato/a a ...",questura-personal
+"Nazionalità? / Cittadinanza?","Nationality / citizenship? → Sono ...",questura-personal
+"Dove abita? / Indirizzo?","Where do you live? / Address? → Abito in via ...",questura-personal
+"Motivo del permesso?","Reason for the permit? → Per lavoro / studio / famiglia.",questura-personal
+"Come si scrive?","How do you spell it? → A come Ancona, B come Bologna...",questura-personal
+"zero","love / 0",tennis-score
+"quindici, trenta, quaranta","15, 30, 40",tennis-score
+"quindici pari / trenta pari","15-all / 30-all",tennis-score
+"parità","deuce (40-40)",tennis-score
+"vantaggio (mio / tuo)","advantage (me / you)",tennis-score
+"Quanto siamo? / Come stiamo?","What's the score?",tennis-score
+"Cambiamo campo.","Let's change ends.",tennis-score
+"Giochiamo? / Facciamo un set?","Shall we play? / Play a set?",tennis-court
+"Riscaldiamoci.","Let's warm up / knock up.",tennis-court
+"Tocca a te servire. / Servi tu.","Your serve.",tennis-court
+"Chi serve?","Who's serving?",tennis-court
+"Pronti? Via!","Ready? Go!",tennis-court
+"Dentro! / Fuori!","In! / Out!",tennis-court
+"Era buona. / Era fuori.","It was in / out.",tennis-court
+"Rete!","Let (off the net cord).",tennis-court
+"Bel colpo! / Bel punto!","Nice shot / point!",tennis-court
+"Che palla!","What a shot!",tennis-court
+"Doppio fallo.","Double fault.",tennis-court
+"La mia! / Tua!","Mine! / Yours! (in doubles)",tennis-court
+"Un'altra?","Another one?",tennis-court
+"Bella partita!","Good match!",tennis-court
+"Rivincita?","Rematch?",tennis-court
+"Ripetiamo il punto.","Let's replay the point.",tennis-court
+"Giochi spesso?","Do you play often?",tennis-talk
+"Da quanto tempo giochi?","How long have you played?",tennis-talk
+"Hai un bel rovescio.","You've got a nice backhand.",tennis-talk
+"Sono un po' arrugginito/a.","I'm a bit rusty.",tennis-talk
+"Oggi non sono in forma.","I'm not on form today.",tennis-talk
+"Che caldo oggi!","So hot today!",tennis-talk
+"Mi hai battuto, complimenti.","You beat me, well done.",tennis-talk
+"Beviamo qualcosa?","Shall we grab a drink?",tennis-talk
+"la racchetta","racket",tennis-kit
+"la pallina / la palla","ball",tennis-kit
+"la rete","net",tennis-kit
+"il campo","court",tennis-kit
+"il servizio · servire","serve · to serve",tennis-kit
+"il dritto","forehand",tennis-kit
+"il rovescio","backhand",tennis-kit
+"lo smash","smash",tennis-kit
+"il pallonetto","lob",tennis-kit
+"la palla corta","drop shot",tennis-kit
