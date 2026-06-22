@@ -146,5 +146,15 @@ Five prepositions fuse with the article. Learn the pattern, not 30 words.
 - **essere vs stare** (both ≈ "to be"): *essere* = identity / permanent (*Sono australiano. È difficile.*);
   *stare* = state / health / location / -ing (*Come stai? Sto bene. Sto mangiando.* = I'm eating).
 
+## 0.11 Saying what you like — *piacere* works backwards
+*piacere* doesn't mean "to like" — it means "**to be pleasing**." So the thing you like is the *subject*,
+and you are the indirect object. The verb agrees with the **thing**, not with you:
+- *Mi piace il caffè.* — I like coffee. (one thing → **piace**, lit. "to-me is-pleasing the coffee")
+- *Mi piacciono le città.* — I like cities. (plural thing → **piacciono**)
+- *Mi piace mangiare.* — I like to eat. (a verb counts as singular → **piace**)
+- Swap the person with an indirect pronoun: *Ti piace?* (do you like it?) · *Le piace Roma.* (she / you-formal like Rome) · *Non mi piace.* (I don't like it).
+
+> 🔑 Same backwards pattern: *mi manca* (I miss it), *mi serve* (I need it), *mi sembra* (it seems to me).
+
 ---
 [🏠 Index](README.md) · [Day 01 →](day-01.md)
