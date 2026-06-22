@@ -132,3 +132,28 @@
 "Mi dispiace.","I'm sorry.",core-phrases
 "Va bene.","That's fine / OK.",core-phrases
 "Hai ragione.","You're right.",core-phrases
+"La mela è rossa.","The apple is red. (adjective follows noun + agrees)",core-patterns
+"È la mela di Marco.","It's Marco's apple. (possession = di + owner)",core-patterns
+"Gli do la mela.","I give him the apple. (indirect pronoun before the verb)",core-patterns
+"Gliela do.","I give it to him. (gli + la → gliela, stacked before verb)",core-patterns
+"Devo dargliela.","I have to give it to him. (modal + infinitive; pronouns attach)",core-patterns
+"Non posso mangiarla.","I can't eat it. (non before verb; pronoun on infinitive)",core-patterns
+"Le ho dato la mela.","I gave her the apple. (passato prossimo + pronoun before ho)",core-patterns
+"Quando me la dai?","When are you giving it to me? (mi → me before another pronoun)",core-patterns
+"-zione","English -tion (informazione, stazione)",core-patterns
+"-tà","English -ty (città, università, libertà)",core-patterns
+"-bile","English -ble (possibile, terribile)",core-patterns
+"-oso","English -ous (famoso, pericoloso)",core-patterns
+"-mente","English -ly (normalmente, veramente)",core-patterns
+"del / della / dei / delle","di + the (of the)",core-patterns
+"al / alla / ai / alle","a + the (to/at the)",core-patterns
+"nel / nella / nei / nelle","in + the (in the)",core-patterns
+"sul / sulla","su + the (on the)",core-patterns
+"dal / dalla","da + the (from/by the)",core-patterns
+"Vorrei un caffè.","I'd like a coffee. (polite: vorrei)",core-patterns
+"Posso pagare?","Can I pay? (modal potere + infinitive)",core-patterns
+"Potrei avere il conto?","Could I have the bill? (polite: potrei)",core-patterns
+"c'è / ci sono","there is / there are",core-patterns
+"Non c'è nessuno.","There's no one. (double negative is correct)",core-patterns
+"Come stai? / Sto bene.","How are you? / I'm well. (stare for state & health)",core-patterns
+"la mia casa","my house (possessive takes the article)",core-patterns
